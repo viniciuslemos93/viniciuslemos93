@@ -1,6 +1,7 @@
 ## Olá, sou o Vinicius Lemos
 - 💼 Em Transição de Carreira para Dev.
-- 👨‍🎓 Atualmente com os estudos focados em tecnologias Frontend.
+- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
+
 - No momento, em paralelo a faculdade estou realizando estes dois cursos:
 
 --> 👨‍💻 Realizando um curso de Desenvolvimento Web com [HTML, CSS, JavaScript , Bootstrap, PHP & MySQL, O.O] - Udemy.
