@@ -1,4 +1,4 @@
-## Olá, sou o Vinicius Lemos
+## Olá, sou o Vinicius Lemos, bem vindo(a)!
 - 💼 Em Transição de Carreira para Dev.
 - 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
 
