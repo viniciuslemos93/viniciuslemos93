@@ -1,7 +1,6 @@
 ## Olá, sou o Vinicius Lemos, bem vindo(a)!
 👨‍💻Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 
-- 💼 Em Transição de Carreira para Dev.
 - 👨‍🎓 Possuo formação Técnica em TI.
 - 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
 
