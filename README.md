@@ -2,7 +2,7 @@
 👨‍💻Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 
 - 👨‍🎓 Possuo formação Técnica em TI.
-- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA. (Atualmente estudando as Disciplinas de Engenharia de Software e Liguagem PHP com Banco de Dados)
+- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA. (Atualmente estudando as Disciplinas de Engenharia de Software e Linguagem PHP com Banco de Dados)
 
 - Atualmente, em paralelo a faculdade estou cursando estes dois cursos:
 
