@@ -1,14 +1,14 @@
 ## Olá, sou o Vinicius Lemos, bem vindo(a)!
 👨‍💻Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 
+No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
+- HTML
+- CSS
+- Javascript
+<hr>
+
 - 👨‍🎓 Possuo formação Técnica em TI.
-- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA. (Atualmente estudando as Disciplinas de Engenharia de Software e Linguagem PHP com Banco de Dados)
-
-- Atualmente, em paralelo a faculdade estou cursando estes dois cursos:
-
---> 👨‍💻 Desenvolvimento Web com [HTML, CSS, JavaScript , Bootstrap, PHP & MySQL, O.O] - Udemy.
-
---> 👨‍💻 UX Design - Coursera (Oferecimento do CIEE-RS e Google).
+- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
 
 <div align="center">
   <a href="https://github.com/viniciuslemos93">
