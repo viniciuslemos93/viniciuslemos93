@@ -9,6 +9,7 @@ No momento estou focado em tecnologias para frontend, desenvolvendo projetos pr�
 
 - 👨‍🎓 Possuo formação Técnica em TI.
 - 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
+- 👨‍🎓 Cursando Google UX/UI Design - Coursera.
 
 <div align="center">
   <a href="https://github.com/viniciuslemos93">
