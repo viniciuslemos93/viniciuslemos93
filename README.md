@@ -1,4 +1,4 @@
-## Olá, sou o Vinicius Lemos, bem vindo(a)!👨‍💻
+## Olá, sou o Vinicius Lemos, seja muito bem vindo(a)!👨‍💻
 Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 
 No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
