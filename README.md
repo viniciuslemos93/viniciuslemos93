@@ -1,5 +1,5 @@
-## Olá, sou o Vinicius Lemos, bem vindo(a)!
-👨‍💻Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
+## Olá, sou o Vinicius Lemos, bem vindo(a)!👨‍💻
+Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração, sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 
 No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
 - HTML
@@ -11,13 +11,14 @@ No momento estou focado em tecnologias para frontend, desenvolvendo projetos pr�
 - 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
 - 👨‍🎓 Cursando Google UX/UI Design - Coursera.
 
+<hr>
+
 <div align="center">
+  <h2>GitHub Status: </h2>
   <a href="https://github.com/viniciuslemos93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslemos93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuslemos93&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-##
 
 <div>
   <a href="https://www.instagram.com/vinicius.lemos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
