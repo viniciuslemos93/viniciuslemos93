@@ -5,6 +5,7 @@ No momento estou focado em tecnologias para frontend, desenvolvendo projetos pr�
 - HTML
 - CSS
 - Javascript
+- Bootstrap
 <hr>
 
 - 👨‍🎓 Possuo formação Técnica em TI.
