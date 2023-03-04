@@ -4,6 +4,7 @@ Sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
 No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
 - HTML
 - CSS
+- React
 - Javascript
 - Bootstrap
 - jQuery
