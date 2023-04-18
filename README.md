@@ -1,6 +1,7 @@
 ## Olá, sou o Vinicius Lemos, seja muito bem vindo(a)!👨‍💻
 Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração!
-Sempre buscando me desafiar para atingir degraus de conhecimentos mais altos.
+Trabalho com Tecnologia desde 2014, e desde 2021 decidi migrar para Desenvolvimento de Software.
+Sempre buscando me desafiar para atingir degraus de conhecimentos e desafios mais altos.
 No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
 - HTML
 - CSS
