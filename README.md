@@ -11,7 +11,6 @@ No momento estou focado em tecnologias para frontend, desenvolvendo projetos pr�
 - Bootstrap
 - jQuery
 - PHP
-- 
 <hr>
 
 - 👨‍🎓 Possuo formação Técnica em TI.
