@@ -1,20 +1,21 @@
 ## Olá, sou o Vinicius Lemos, seja muito bem vindo(a)!👨‍💻
 Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração!
-Trabalho com Tecnologia desde 2014, e desde 2021 decidi migrar para Desenvolvimento de Software.
+
+Trabalho com TI desde 2014, e em 2022 realizei a transição para Desenvolvimento de Software.
 Sempre buscando me desafiar para atingir degraus de conhecimentos e desafios mais altos.
-No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, utilizando até o presente momento as seguintes tecnologias:
+No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, também utilizo o WordPress:
 - HTML
 - CSS
 - React
 - Javascript
 - Bootstrap
 - jQuery
-
+- PHP
+- 
 <hr>
 
 - 👨‍🎓 Possuo formação Técnica em TI.
 - 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
-- 👨‍🎓 Cursando Google UX/UI Design - Coursera.
 
 <hr>
 
