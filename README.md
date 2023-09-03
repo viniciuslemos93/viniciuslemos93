@@ -1,4 +1,4 @@
-## Olá, sou o Vinicius Lemos, seja muito bem vindo(a)!👨‍💻
+## Hello, I'm Vinicius Lemos, welcome!👨‍💻
 I have been working with IT for over 10 years, and in 2022 I made the transition to the software development area, developing several authorial and freelance projects to consolidate the knowledge acquired during my studies.
 
 I currently work with Web Development | WordPress, using the following Tools & Frameworks:
