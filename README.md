@@ -1,20 +1,20 @@
 ## Olá, sou o Vinicius Lemos, seja muito bem vindo(a)!👨‍💻
-Apaixonado por tecnologia, amo trabalho em equipe, resolução de problemas e colaboração!
+I have been working with IT for over 10 years, and in 2022 I made the transition to the software development area, developing several authorial and freelance projects to consolidate the knowledge acquired during my studies.
 
-Trabalho com TI desde 2014, e em 2022 realizei a transição para Desenvolvimento de Software.
-Sempre buscando me desafiar para atingir degraus de conhecimentos e desafios mais altos.
-No momento estou focado em tecnologias para frontend, desenvolvendo projetos práticos, também utilizo o WordPress:
-- HTML
-- CSS
-- React
-- Javascript
+I currently work with Web Development | WordPress, using the following Tools & Frameworks:
+- HTML, CSS e Javascript
 - Bootstrap
 - jQuery
+- React
 - PHP
+- Trello
+- Google Analytics
+- Google My Business
+- WordPress
+- WooCommerce
 <hr>
 
-- 👨‍🎓 Possuo formação Técnica em TI.
-- 👨‍🎓 Graduando Sistemas para Internet pela ULBRA.
+- 👨‍🎓 I have technical training in IT.
 
 <hr>
 
