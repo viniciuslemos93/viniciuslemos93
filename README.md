@@ -1,19 +1,24 @@
-## Hello, I'm Vinicius Lemos, welcome!👨‍💻
-I have been working with IT for over 10 years, and in 2022 I made the transition to the software development area, developing several authorial and freelance projects to consolidate the knowledge acquired during my studies.
+## Hello, I'm Vinicius Lemos, FullStack Developer, welcome!👨‍💻
+More than 8 years of experience working with IT in the Infrastructure and Support area, working in medium and large companies, including multinationals, such as the Stefanini Group.
 
-I currently work with Web Development | WordPress, using the following Tools & Frameworks:
+In 2022 I transitioned to the software development area, developing several authorial and freelance projects with web development | frontend.
+
+I currently work with FullStack Development, using the following Tools & Frameworks:
 - HTML, CSS e Javascript
 - Bootstrap
 - jQuery
-- React
+- AngularJS
+- Java
 - PHP
 - Trello
+- Jira
 - Google Analytics
 - Google My Business
 - WordPress
 - WooCommerce
 <hr>
 
+- 👨‍🎓 Graduating Analysis and systems development
 - 👨‍🎓 I have technical training in IT.
 
 <hr>
