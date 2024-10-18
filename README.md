@@ -1,7 +1,8 @@
 ## Hello, I'm Vinicius Lemos, FullStack Developer, welcome!👨‍💻
-More than 8 years of experience working with IT in the Infrastructure and Support area, working in medium and large companies, including multinationals, such as the Stefanini Group.
+With over 10 years of experience in the IT area, I have worked in several areas, including IT Infrastructure, Web Development and Digital Marketing in Paid Traffic.
+I have a solid repertoire in projects involving responsive development, such as websites, landing pages and systems integrated with APIs, using both front-end and back-end technologies.
 
-In 2022 I transitioned to the software development area, developing several authorial and freelance projects with web development | frontend.
+I am a fan of clear and assertive communication, collaborating efficiently with teams and clients. I believe that teamwork, combined with a focus on problem-solving, results and quality deliveries, are essential for the continued success of any company and product.
 
 I currently work with FullStack Development, using the following Tools & Frameworks:
 - HTML, CSS e Javascript
@@ -13,12 +14,13 @@ I currently work with FullStack Development, using the following Tools & Framewo
 - Trello
 - Jira
 - Google Analytics
-- Google My Business
+- Google Tag Manager
 - WordPress
 - WooCommerce
+- Elementor
 <hr>
 
-- 👨‍🎓 Graduating Analysis and systems development
+- 👨‍🎓 Google Ads Certificate
 - 👨‍🎓 I have technical training in IT.
 
 <hr>
